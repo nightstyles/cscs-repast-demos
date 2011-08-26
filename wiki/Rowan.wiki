@@ -1,13 +1,15 @@
 #summary Rowan's stuff: current tasks, ideas, etc.
 = Repast = 
-Doing: finish uploading all files for Boids; start pages for a couple more models
 
-Done: some [Boids] models
+Done: 
+  * [Boids] in Java and ReLogo (though the tutorial is only for Java)   
+  * [NBodies]
+  * [SugarMarket]
 
 === Ideas ===
 Here's a list of my ideas so far - will put in short descriptions later.
  * [Boids]: Agents follow simple rules which adjust their heading based on their neighbors' relative position and heading, and organic flocks emerge.
- * Two body or three body: 
+ * Two body or three body (see [NBodies])
  * simple traffic 
  * simple weather 
  * ant foraging
