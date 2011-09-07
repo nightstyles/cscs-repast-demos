@@ -28,7 +28,7 @@
  
 Hi, I am Mudit, I am a 7th semester student on Birla Institute of Technology and Science – Pilani studying at Goa Campus, I am simultaneously working for my Master’s degree in Chemistry and Bachelor’s degree in Electronics and Instrumentation Engineering. 
 
-I am interested in swarm robotics, embedded systems and mobile Wireless Sensor Networks. I will be making “Demo” models on Repast S as a part of my GSoC 2011 project. I am looking forward to learn the basics of design and simulation of Agent Based Complex Systems as they are an integral part of mobile WSN and Swarm Robotics. 
+I am interested in machine learning, swarm robotics, networked embedded systems and mobile Wireless Sensor Networks. I will be making “Demo” models on Repast S as a part of my GSoC 2011 project. I am looking forward to learn the basics of design and simulation of Agent Based Complex Systems as they are an integral part of mobile WSN and Swarm Robotics. 
 
 
 =*Models*=
