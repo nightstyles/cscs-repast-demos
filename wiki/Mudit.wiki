@@ -87,8 +87,9 @@ For a Summary Check [BiasedRandomWalk]
 
 For a Summary Check [RandomChains]
 
+==*MarkAndWalk*==
 
-
+For a Summary Check [MarkAndWalk]
 
 =*Tutorial*=
 
