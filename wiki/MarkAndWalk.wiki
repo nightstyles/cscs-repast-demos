@@ -22,7 +22,7 @@
 
 The model demonstrates a Mark and Walk algorithm. It is an improvement on using RandomWalk Algorithm in area coverage. This can be used to predict how many times a cell is revisited by the agents and how much time an agent colony takes takes for complete Area Coverage 
 
-https://cscs-repast-demos.googlecode.com/svn/wiki/BiasedRandomWalk/BiasedRandomWalk%28main%29.JPG
+https://cscs-repast-demos.googlecode.com/svn/wiki/Images_Mudit/WSN(Index).JPG
 
 ---------
 
@@ -30,7 +30,7 @@ https://cscs-repast-demos.googlecode.com/svn/wiki/BiasedRandomWalk/BiasedRandomW
 
 The user can assign a "Coverage Range". The number of agents are also adjustable. Standard Setup, Go and Go Once Options are also present. User Panel looks like this :
 
-https://cscs-repast-demos.googlecode.com/svn/wiki/BiasedRandomWalk/BiasedRandomWalk%28panel%29.JPG
+https://cscs-repast-demos.googlecode.com/svn/wiki/Images_Mudit/WSN(panel).JPG
 
 
 ---------
@@ -49,9 +49,11 @@ Model Outputter is also added. The added model outputter is comma separated valu
 
 Various analysis could be carried out with the model, but for demonstration purpose a graph between, "Number of Visits" on y-axis and "Time" on x-axis is plotted.
 
-https://cscs-repast-demos.googlecode.com/svn/wiki/BiasedRandomWalk/BiasedRandomWalk%28plot%29.png
+https://cscs-repast-demos.googlecode.com/svn/wiki/Images_Mudit/WSNp2.png
 
 Another graph of area coverage with time is plotted.
+
+https://cscs-repast-demos.googlecode.com/svn/wiki/Images_Mudit/WSNp1.png
 
 ---------
 
