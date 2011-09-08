@@ -83,11 +83,11 @@ For a Summary Check [RandomWalk]
 
 For a Summary Check [BiasedRandomWalk]
 
-==*RandomChains*==
+==*Random Chains*==
 
 For a Summary Check [RandomChains]
 
-==*MarkAndWalk*==
+==*Mark And Walk*==
 
 For a Summary Check [MarkAndWalk]
 
