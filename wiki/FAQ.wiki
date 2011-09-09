@@ -92,3 +92,11 @@ They mentioned [http://code.google.com/p/google-code-wiki-to-html/ another proje
 So that was the best solution we were able to come up with for this issue. It has still some minor problems (e.g., it does not resize images as the Wiki and somehow it doesn't includes syntax highlighting), but it is good enough to put next to the sources to read it offline.
 
 We have also encountered some tools that can [http://moinmo.in/FormatterMarket?highlight=%28moin2rst%29 convert MoinMoin Wiki text] (the !GoogleCode Wiki Syntax is a derivative of that) to other formats automatically (e.g., to LaTeX, which may be useful in the future), but we weren't able to use them so far successfully.
+
+----
+
+= GSoC 2011 =
+== Where to Upload the Created Models? =
+At the end of GSoC 2011 we have to upload the created materials (documentation, models, etc.) to the official GSoC site of the project which can be found at the following link:
+
+  http://code.google.com/p/google-summer-of-code-2011-cscs/
