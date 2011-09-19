@@ -5,32 +5,21 @@
 
 == Introduction ==
 
-Hello, my name is Tim Sweda, and I am a 2nd-year PhD student at Northwestern University in the Department of Industrial Engineering and Management Sciences.
+Hello, my name is Tim Sweda, and I am a PhD student at [http://www.northwestern.edu Northwestern University] in the [http://iems.northwestern.edu Department of Industrial Engineering and Management Sciences].  I currently work with [http://www.iems.northwestern.edu/people/faculty/detail.php?id=5a71e5b08169773801c6a6fd2ed974d3 Diego Klabjan] on a variety of decision making problems for electric vehicles.
 
-  * Mentor:  Michael North
-  * Location:  Evanston, Illinois, USA
-  * University:
-    * [http://www.northwestern.edu Northwestern University]
-    * [http://iems.northwestern.edu Department of Industrial Engineering and Management Sciences]
-  * Time Zone:  UTC/GMT -5 hours, CDT
+During the summer of 2011, I participated in the [http://www.google-melange.com/gsoc/homepage/google/gsoc2011 Google Summer of Code] program and created several "demo" models for [http://repast.sourceforge.net Repast Simphony].  The project's homepage can be found [http://code.google.com/p/cscs-repast-demos/ here].  My mentor was [http://www.dis.anl.gov/staff/north.html Michael North] of [http://www.anl.gov Argonne National Laboratory].
 
 == Contact ==
 
   * E-mail:  tsweda@u.northwestern.edu OR timsweda@gmail.com
-  * Skype:  timsweda
 
-= Planned Models =
+= Completed Models =
 
-  # *Diffusion*:  demonstration of ReLogo's diffuse methods
-  # *Discrete Event Simulator*:  discrete-event simulation toolkit designed for Repast
-  # *Ethnocentrism*:  model of ethnocentric behavior and its evolution
-    * http://www-personal.umich.edu/~axe/research/Hammond%20and%20Axelrod%20JCR%2006.pdf
-  # *Game of Life*:  simple cellular automaton
-    * http://en.wikipedia.org/wiki/Conway_game_of_life
-  # *Mousetraps*:  chain reaction initiated by dropping a ball onto a field of mousetraps
-  # *Small Worlds*:  formation of networks resulting in "small world" phenomenon
-    * http://en.wikipedia.org/wiki/Watts_and_Strogatz_model
-  # *Snake*:  classic arcade game
-    * http://en.wikipedia.org/wiki/Snake_(video_game)
-  # *Traffic Grid*:  real-time traffic simulation
-    * http://ccl.northwestern.edu/netlogo/models/TrafficGrid
+  # [Diffusion]:  (ReLogo) Demonstration of @Diffusible variables for patches
+  # [DiscreteEventSim]:  (Java) Toolkit for discrete-event simulation
+  # [Ethnocentrism]:  (ReLogo) Implementation of Hammond & Axelrod's model of ethnocentrism
+  # [GameOfLife]:  (ReLogo) Implementation of Conway's cellular automaton
+  # [Gridlock]:  (ReLogo) Traffic simulator demonstrating gridlock at intersections
+  # [Mousetraps]:  (ReLogo) Metaphorical model of nuclear fission
+  # [SmallWorld]:  (ReLogo) Implementation of Watts & Strogatz's small-world network model
+  # [Snake]:  (ReLogo) Version of classic arcade game
