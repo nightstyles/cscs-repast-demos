@@ -35,9 +35,9 @@ Record status after the group agrees on the assignment - planned,working,done
     * Working: tba
     * Done: tba
   * *[Tim Tim Sweda]* (mentor: mike)
-    * Planned: Java implementations of ReLogo models (?)
-    * Working: documentation, code cleanup
-    * Done: Diffusion, Discrete Event Simulator, Ethnocentrism, Game of Life, Gridlock, Mousetraps, Small World, Snake
+    * Planned: updates/support for completed models
+    * Working: -
+    * Done: [Diffusion], [DiscreteEventSim], [Ethnocentrism], [GameOfLife], [Gridlock], [Mousetraps], [SmallWorld], [Snake]
 
 
 ----
