@@ -1,5 +1,4 @@
-SoC2012
-CSCS SoC Ideas --- Google Summer of Code 2012
+<b>Google Summer of Code 2012 CSCS Ideas</b>
 
 For Google Summer of Code 2012 projects, CSCS would like to find students interested in working on one of the following projects. We anticipate we could mentor and effectively use 4-6 students. However, if you have a project you think are related to complex systems research, please feel free to contact us, or better, submit a proposal via SoC to CSCS. If it is a project we feel we can mentor and one that is related to complex systems research, we will consider it. For example, see our past GSOC Ideas pages -- some of those projects we are still pursuing. If you have questions about these projects, please contact the lead mentor, Rick.Riolo@gmail.com, Director of the CSCS Computing Lab.
 
@@ -11,9 +10,9 @@ Some information you should include in your application is as follows:
 
 Note that we prefer to work with students who will continue to work on the projects they start on in GSoC or other related projects, so include information relevant to that issue as well.
 
-FAQ (Please read regarding required/desired experience)
+Please read the <a href="">FAQ regarding required and desired experience</a>.
 
-Project 1 Create Agent-based Demonstration and Tutorial Models using Repast Simphony:
+<b>Project 1 Create Agent-based Demonstration and Tutorial Models using Repast Simphony:</b>
 
 <a href="http://repast.sourceforge.net/repast_simphony.html">Repast Simphony 2.0</a> is a tightly integrated, richly interactive, cross platform Java-based modeling system that runs under Microsoft Windows, Apple Mac OS X, and Linux. It supports the development of extremely flexible models of interacting agents for use on workstations and small computing clusters. Repast Simphony models can be developed in several different forms including the ReLogo dialect of Logo, point-and-click flowcharts, Groovy, or Java, all of which can be fluidly interleaved. NetLogo models can also be imported. Repast Simphony has been successfully used in many application domains including social science, consumer products, supply chains, possible future hydrogen infrastructures, and ancient pedestrian traffic to name a few. For examples see the Repast Simphony <a href="http://repast.sourceforge.net/papers.html">papers page</a>.
 
@@ -36,7 +35,7 @@ The students will be mentored by Repast Simphony developers and agent-based mode
 
 More information about Repast Simphony can be found in the <a href="http://repast.sourceforge.net/docs.html">documentation pages</a>. The primary means of obtaining help with Repast is the Repast Interest <a href="https://lists.sourceforge.net/lists/listinfo/repast-interest">mailing list and the list archives</a>.
 
-Project 2 Development of Repast Simphony:
+<b>Project 2 Development of Repast Simphony:</b>
 
 While our main need is for students to work on implementing demonstration models, students also may work on Repast Simphony itself. Some potential areas include:
 
@@ -46,6 +45,6 @@ While our main need is for students to work on implementing demonstration models
 
 The main challenge to working on Repast Simphony  itself is that it may be difficult to find tasks that can be completed in few weeks or so, especially given the need to become familiar with RepastS features, architecture and components. Thus we suspect the best way to do this may be through first building some models to learn about Repast Simphony  as it is, and to learn what would be useful to have that would be of modest scale or at least can be divided into components of modest scale.
 
-Repast License:
+<b>Repast License:</b>
 
 The Repast suite software and documentation is licensed under a "New BSD" style license. Please note that Repast Simphony uses a variety of tools and third party external libraries each having its own compatible license, including software released under the Eclipse Public License, the Common Public License, the GNU Library General Public License and other licenses.
