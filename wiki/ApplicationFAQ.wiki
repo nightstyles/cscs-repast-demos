@@ -1,0 +1,30 @@
+Q: What skills are required?
+ 
+A:  Computer programming is required.  For 2011, the most  useful languages
+to know are Java and Groovy, since most demo ABMs will be written using those.  
+Using eclipse will be required, so  experience with Eclipse (and various addons like XML editors
+and tools, EMF and GEF SDKs) is useful. Knowledge of Netlogo might be useful.
+Experience with R, VisAD, Weka, Matlab, iReport, GridGain or Terracotta would be a plus.
+Experience with JOGL and Java3D might be useful.
+
+In addition, an ability and commitment to writing documentation is required,
+including "introductory" documentation for the demo models  implemented.
+The ABMs will be of little use as "demos" if new users cannot easily figure out what
+they are and how to use them.
+
+Q: Is a background in complex adaptive systems (CAS) research, and/or in
+agent-based / individual-based computational modeling
+required for this project?
+
+A. Knowledge of complex systems is not required, but for some
+parts of the project that kind of experience would be helpful:
+
+<ul>
+<li>For writing demonstration models for RepastS, knowledge of CAS
+  is not required but it would be useful. Certainly an interest 
+  in learning about CAS research would be important.</li>
+<li>For working on Repast S itself, again knowledge of CAS is not
+  necessary but it can be useful, so that the student has a feel
+ for how Repast S is used, and thus what are features of interest
+  to the RepastS intended user base.</li>
+</ul>
