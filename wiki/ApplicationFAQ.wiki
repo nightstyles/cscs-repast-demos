@@ -1,6 +1,6 @@
 Q: What skills are required?
  
-A:  Computer programming is required.  For 2011, the most  useful languages
+<br>A:  Computer programming is required.  For 2011, the most  useful languages
 to know are Java and Groovy, since most demo ABMs will be written using those.  
 Using eclipse will be required, so  experience with Eclipse (and various addons like XML editors
 and tools, EMF and GEF SDKs) is useful. Knowledge of Netlogo might be useful.
@@ -16,7 +16,7 @@ Q: Is a background in complex adaptive systems (CAS) research, and/or in
 agent-based / individual-based computational modeling
 required for this project?
 
-A. Knowledge of complex systems is not required, but for some
+<br>A. Knowledge of complex systems is not required, but for some
 parts of the project that kind of experience would be helpful:
 
 <ul>
