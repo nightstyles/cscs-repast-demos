@@ -5,10 +5,7 @@ to know are Java and Groovy, since most demo ABMs will be written using those.
 Using eclipse will be required, so  experience with Eclipse (and various addons like XML editors
 and tools, EMF and GEF SDKs) is useful. Knowledge of Netlogo might be useful.
 Experience with R, VisAD, Weka, Matlab, iReport, GridGain or Terracotta would be a plus.
-Experience with JOGL and Java3D might be useful.
-
-In addition, an ability and commitment to writing documentation is required,
-including "introductory" documentation for the demo models  implemented.
+Experience with JOGL and Java3D might be useful. In addition, an ability and commitment to writing documentation is required, including "introductory" documentation for the demo models  implemented.
 The ABMs will be of little use as "demos" if new users cannot easily figure out what
 they are and how to use them.
 
