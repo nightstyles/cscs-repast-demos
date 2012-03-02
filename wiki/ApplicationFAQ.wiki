@@ -20,11 +20,6 @@ required for this project?
 parts of the project that kind of experience would be helpful:
 
 <ul>
-<li>For writing demonstration models for RepastS, knowledge of CAS
-  is not required but it would be useful. Certainly an interest 
-  in learning about CAS research would be important.</li>
-<li>For working on Repast S itself, again knowledge of CAS is not
-  necessary but it can be useful, so that the student has a feel
- for how Repast S is used, and thus what are features of interest
-  to the RepastS intended user base.</li>
+<li>For writing demonstration models for RepastS, knowledge of CAS is not required but it would be useful. Certainly an interest in learning about CAS research would be important.</li>
+<li>For working on Repast S itself, again knowledge of CAS is not necessary but it can be useful, so that the student has a feel for how Repast S is used, and thus what are features of interest to the RepastS intended user base.</li>
 </ul>
