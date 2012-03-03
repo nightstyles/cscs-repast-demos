@@ -16,7 +16,6 @@ Here a more ideas that I had for models that I didn't have time to implement, bu
  * cellular automaton: developing the framework for Conway’s Game of Life shouldn’t be hard. It would be interesting to have the game or another form of cellular automaton program made on Repast.
 
 = Myself =
-=== Intro === 
 I'm an undergrad at St. Mary's College of Maryland, a public liberal arts college. I'm doing my undergrad thesis on algorithmic swarm robotics, and using RepastS for modelling purposes. I am also picking up an Art major and Math minor.
 
 email: rowan.copley@gmail.com
