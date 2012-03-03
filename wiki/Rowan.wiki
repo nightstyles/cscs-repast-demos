@@ -1,4 +1,4 @@
-#summary Rowan's models and personal information
+#summary Rowan Copley's models and personal information
 = Repast = 
 
 === Models ===
