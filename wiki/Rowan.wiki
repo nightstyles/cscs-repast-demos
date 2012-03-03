@@ -1,4 +1,4 @@
-#summary Rowan's stuff: current tasks, ideas, etc.
+#summary Rowan's models and personal information
 = Repast = 
 
 === Models ===
