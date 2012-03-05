@@ -1,4 +1,4 @@
-#summary General information about the Repast S GSoC 2011 project.
+#summary General information about the Repast S /GSoC projects.
 #labels Featured
 #sidebar TableOfContents
 
@@ -8,6 +8,9 @@ This project was founded as part of a Google Summer of Code 2011 in order to imp
 
   * Project #1: Create Agent Based Model _"Demos"_ using Repast Simphony
   * Project #2: Development of Repast Simphony
+
+We hope to continue these projects throughout the year,
+and as part of GSoC 2012 (should GSoC grant us support for interns again).
 
 = Project Details =
 == Members ==
@@ -19,7 +22,7 @@ The mentors are:
   * Eric R., Tatara tatara@anl.gov
   * Rick Riolo, rlriolo@umich.edu
 
-The interns (&mentors) are:
+The interns (&mentors) for GSoC 2011 were:
 
   * [Grace Grace I. Lin], gracelin999@gmail.com   (rick)  
   * kogreen2@yahoo.com,    (mike)
