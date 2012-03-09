@@ -31,12 +31,17 @@ Please read the <a href="http://code.google.com/p/cscs-repast-demos/wiki/Applica
 
 <a href="http://repast.sourceforge.net/repast_simphony.html">Repast Simphony 2.0</a> is a tightly integrated, richly interactive, cross platform Java-based modeling system that runs under Microsoft Windows, Apple Mac OS X, and Linux. It supports the development of extremely flexible models of interacting agents for use on workstations and small computing clusters. Repast Simphony models can be developed in several different forms including the ReLogo dialect of Logo, point-and-click flowcharts, Groovy, or Java, all of which can be fluidly interleaved. NetLogo models can also be imported. Repast Simphony has been successfully used in many application domains including social science, consumer products, supply chains, possible future hydrogen infrastructures, and ancient pedestrian traffic to name a few. For examples see the Repast Simphony <a href="http://repast.sourceforge.net/papers.html">papers page</a>.
 
-One area of development that needs work is extending the library of demonstration models. The original release of Repast Simphony has limited set of models, including some classics such as the Schelling "Tipping" segregation model and a simple version of the Sugarscape model. However, those models are fairly bare-bones.  A number of new models, tutorials and documentation were created by the GSoC-2011 student developers; most of them are listed on
+One area of development that needs work is extending the library of demonstration models. The original release of Repast Simphony had a  limited set of models, including some classics such as the Schelling "Tipping" segregation model and a simple version of the Sugarscape model. However, those models were fairly bare-bones and had limited documentation.
+
+A number of new models, tutorials and documentation were created by the GSoC-2011 student developers; most of them are listed on
 the [http://code.google.com/p/cscs-repast-demos/wiki/StudentsDemosList Student Demos List page for 2011].  Many of those were added to the curated [http://code.google.com/p/repast-demos/ repast-demos site] and distributed as part of Repast Simphony 2.0.
 
-However, there is a need for many more well-documented demonstration models (see for instance the Model Library in Netlogo, another ABM platform aimed more at programming novices and smaller  models and modeling projects than Repast Simphony generally is used for).
+However, there still is a need for many more well-documented demonstration models. For example the [http://ccl.northwestern.edu/netlogo/models/ Model Libraries with Netlogo], another ABM platform has many dozen's of models, most well documented and thus useful for people trying to see what Netlogo can do and how to do it.  Repast needs a similarly large and diverse set of demo models.
+
 In addition, some of the existing Repast demo models
-could be improved by having more basic documentation and by including more features to show how to use more Repast Simphony's built-in and add-on tools. In addition, additional tutorials would be useful as well.  Having a rich, wide variety of well-documented demo models will:
+could be improved by having more basic documentation and by including more features to show how to use more Repast Simphony's built-in and add-on tools. Additional tutorials would be useful as well. 
+
+Having a rich, wide variety of well-documented demo models will:
 
 <ul>
 <li>Provide demonstrations that can introduce users to the amazing behaviors of complex adaptive system models of a wide variety of chemical, biological, social and engineered systems;</li>
@@ -46,7 +51,7 @@ could be improved by having more basic documentation and by including more featu
 </ul>
 
 
-Thus we are looking for students to work on implementing demonstration and tutorial agent-based models in Repast Simphony using Java, ReLogo, Groovy, or flow charts. In general, these models should be relatively simple, easy to describe and implement. Very large, detailed simulations are too difficult to implement, as well as difficult to explain to new users so they can appreciate and understand how they work and what they do.
+Thus we are looking for students to work on implementing demonstration and tutorial agent-based models in Repast Simphony using Java, ReLogo, Groovy, or flow charts. In general, the models students propose to build  should be relatively simple, easy to describe and implement. Very large, detailed simulations are too difficult to implement, as well as difficult to explain to new users so they can appreciate and understand how they work and what they do.
 
 We expect each student to develop 6-10 demo-models over the course of the summer. Note that developing a model includes creating adequate documentation, both internal to the program and user-introductory documentation.
 
