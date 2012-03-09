@@ -1,4 +1,5 @@
 #summary GSoC 2012 Ideas for Student Projects
+#labels Featured
 
 =Introduction=
 
