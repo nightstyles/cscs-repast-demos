@@ -1,5 +1,12 @@
 #summary GSoC 2012 Ideas for Student Projects
 
+=Introduction=
+
+This project is a continuation of a project started with the support of Google Summer of Code 2011, in order to improve [http://repast.sourceforge.net/ Repast Simphony]. We have two different broad goals:
+  * Project #1: Create Agent Based Model _"Demos"_ using Repast Simphony
+  * Project #2: Development of Repast Simphony
+We hope to continue these projects throughout the year,
+and as part of GSoC 2012 (should GSoC grant us support for interns again).
 
 =CSCS Google Summer of Code 2012=
 
