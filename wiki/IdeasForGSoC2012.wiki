@@ -10,7 +10,10 @@ and as part of GSoC 2012 (should GSoC grant us support for interns again).
 
 =CSCS Google Summer of Code 2012=
 
-For Google Summer of Code 2012 projects, CSCS / CAS2 would like to find students interested in working on one of the following projects. We anticipate we could mentor and effectively use 6-8 students. However, if you have a project you think are related to complex systems research, please feel free to contact us, or better, submit a proposal via SoC to CSCS. If it is a project we feel we can mentor and one that is related to complex systems research, we will consider it. For example, see [http://www.cscs.umich.edu/~rlr/SoC/index.php?n=Main.HomePage#PastGSOCIdeaPages our past GSOC Ideas pages] -- some of those projects we are still pursuing. If you have questions about these projects, please contact the lead mentor, Rick.Riolo@gmail.com, Director of the CSCS Computing Lab.
+For Google Summer of Code 2012 projects, CSCS / CAS2 would like to find students interested in working on one of the following projects. 
+  * Project #1: Create Agent Based Model _"Demos"_ using Repast Simphony
+  * Project #2: Development of Repast Simphony
+We anticipate we could mentor and effectively use 6-8 students. However, if you have a different project you think are related to complex systems research, please feel free to contact us, or better, submit a proposal via SoC to CSCS. If it is a project we feel we can mentor and one that is related to complex systems research, we will consider it. For example, see [http://www.cscs.umich.edu/~rlr/SoC/index.php?n=Main.HomePage#PastGSOCIdeaPages our past GSOC Ideas pages] -- some of those projects we are still pursuing. If you have questions about these projects, please contact the lead mentor, Rick.Riolo@gmail.com, Director of the CSCS Computing Lab.
 
 Some information you should include in your application is as follows:
 
