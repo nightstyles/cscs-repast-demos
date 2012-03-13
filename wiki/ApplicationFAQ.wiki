@@ -22,7 +22,9 @@ parts of the project that kind of experience would be helpful:
 </ul>
 ----
 
-==Application Guidelines== -- A proto-Template
+==Application Guidelines== 
+
+*A proto-Template*
 
 We do not have a particular template. We would like to see at least:
   * Your contact information. (email, etc)
