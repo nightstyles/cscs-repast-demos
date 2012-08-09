@@ -3,8 +3,10 @@
 
 =*Contents*=
 
-<wiki:toc max_depth="2" />
+<wiki:toc max_depth="3" />
 
-=[Mudit Mudit Raj Gupta]=
+=*Contributors*=
 
-==[http://code.google.com/p/repast-demos/wiki/Ant Ant]==
+==[Mudit Mudit Raj Gupta]==
+
+===[http://code.google.com/p/repast-demos/wiki/Ant Ant]===
