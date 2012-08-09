@@ -11,3 +11,12 @@
 
    # [http://code.google.com/p/repast-demos/wiki/Ant Ant]
    # [http://code.google.com/p/repast-demos/wiki/AreaCoverage Area Coverage]
+http://code.google.com/p/repast-demos/wiki/BiasedRandomWalk
+http://code.google.com/p/repast-demos/wiki/BugCatcher
+http://code.google.com/p/repast-demos/wiki/FollowTheLeader
+http://code.google.com/p/repast-demos/wiki/GuidingBots
+http://code.google.com/p/repast-demos/wiki/MarkAndWalk
+http://code.google.com/p/repast-demos/wiki/Moth_Basic
+http://code.google.com/p/repast-demos/wiki/Moth_Advanced
+http://code.google.com/p/repast-demos/wiki/RandomChains
+http://code.google.com/p/repast-demos/wiki/RandomWalk
