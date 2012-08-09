@@ -11,12 +11,12 @@
 
    # [http://code.google.com/p/repast-demos/wiki/Ant Ant]
    # [http://code.google.com/p/repast-demos/wiki/AreaCoverage Area Coverage]
-http://code.google.com/p/repast-demos/wiki/BiasedRandomWalk
-http://code.google.com/p/repast-demos/wiki/BugCatcher
-http://code.google.com/p/repast-demos/wiki/FollowTheLeader
-http://code.google.com/p/repast-demos/wiki/GuidingBots
-http://code.google.com/p/repast-demos/wiki/MarkAndWalk
-http://code.google.com/p/repast-demos/wiki/Moth_Basic
-http://code.google.com/p/repast-demos/wiki/Moth_Advanced
-http://code.google.com/p/repast-demos/wiki/RandomChains
-http://code.google.com/p/repast-demos/wiki/RandomWalk
+   # [http://code.google.com/p/repast-demos/wiki/BiasedRandomWalk Biased Random Walk]
+   # [http://code.google.com/p/repast-demos/wiki/BugCatcher Bug Catcher]
+   # [http://code.google.com/p/repast-demos/wiki/FollowTheLeader Follow The Leader]
+   # [http://code.google.com/p/repast-demos/wiki/GuidingBots Guiding Bots]
+   # [http://code.google.com/p/repast-demos/wiki/MarkAndWalk Mark and Walk]
+   # [http://code.google.com/p/repast-demos/wiki/Moth_Basic Moth (Basic)]
+   # [http://code.google.com/p/repast-demos/wiki/Moth_Advanced Moth (Advance)]
+   # [http://code.google.com/p/repast-demos/wiki/RandomChains Random Chains]
+   # [http://code.google.com/p/repast-demos/wiki/RandomWalk Random Walk]
