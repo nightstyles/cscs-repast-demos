@@ -424,7 +424,7 @@ That is all! We have finished the implementation of _!StupidModel 1_. The last t
 This is the only part where a minor _"magic"_ is required. Open up the file `stupidmodel.rs/context.xml`. Repast Simphony includes a nice XML file editor, where the elements may be added through a graphical interface. After clicking on the _Source_ tab, the default content for the file should look something like this:
 
 {{{
-<context id="stupidmodel"
+<context id="StupidModel"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
 </context>
@@ -433,7 +433,7 @@ This is the only part where a minor _"magic"_ is required. Open up the file `stu
 In order to let the observer (the Repast S GUI and its several wizards) know about the projections we added to our model, the following modifications must be done:
 
 {{{
-<context id="stupidmodel"
+<context id="StupidModel"
 		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		xsi:noNamespaceSchemaLocation="http://repast.org/scenario/context">
 	<projection id="space" type="continuous space" />
