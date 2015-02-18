@@ -25,7 +25,7 @@ public class Queue extends ArrayList<Entity> {
 	public Queue(String type) {
 		this.type = type;
 		// If type is not recognized, default to FIFO
-		if (type != "FIFO" && type != "LIFO" && type != "Priority")
+		if (!type.equals(“FIFO”) && !type.equals(“LIFO”) && !type.equals(“Priority”))
 			this.type = "FIFO";
 		length = new Stat();
 		waitTime = new Stat();
@@ -47,17 +47,17 @@ public class Queue extends ArrayList<Entity> {
 	public boolean enqueue(Entity e) {
 		length.recordCT(this.size());
 		double time = DESimBuilder.schedule.getTickCount();
-		if (type == "FIFO") {
+		if (type.equals(”FIFO”)) {
 			e.stamp(time);
 			if (this.add(e))
 				return true;
 		}
-		else if (type == "LIFO") {
+		else if (type.equals(“LIFO”)) {
 			this.add(0, e);
 			e.stamp(time);
 			return true;
 		}
-		else if (type == "Priority") {
+		else if (type.equals(“Priority”)) {
 			int i = 0;
 			while (e.getPriority() <= this.get(i).getPriority())
 				i++;
